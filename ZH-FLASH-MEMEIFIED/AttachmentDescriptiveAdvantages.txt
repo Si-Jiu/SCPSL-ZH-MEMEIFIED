@@ -1,0 +1,4 @@
+<color=#00B300FF>光源照明</color>
+<color=#00B300FF>弹量计数器</color>
+<color=#00B300FF>枪口消焰</color>
+<color=#00B300FF>夜视装置</color>
