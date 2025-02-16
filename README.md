@@ -14,17 +14,10 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/stargazers"><img src="https://img.shields.io/github/stars/ShanFlash/SCP-SL_zh_Flash?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
-  <a href="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg"><img src="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg?color=%23008F1C" alt="GitHub Downloads"></a>&nbsp;&nbsp;
-  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/releases"><img src="https://img.shields.io/github/v/release/ShanFlash/SCP-SL_zh_Flash?color=%2300D9FF" alt="Release"></a>&nbsp;&nbsp;
-  <a href="https://qm.qq.com/q/WidrCektW2"><img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-811343251-orange?color=%23FF8000" alt="QQ Chat Group"></a>&nbsp;&nbsp;
-  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/network/members"><img src="https://img.shields.io/github/forks/ShanFlash/SCP-SL_zh_Flash" alt="GitHub Forks"></a>
-</p>
-
 ## 📝 翻译包介绍
 
 - 翻译包名称：梗体中文-原版重置 (ZH-FLASH-MEMEIFIED)
+- 原项目[链接](https://github.com/ShanFlash/SCP-SL_zh_Flash)
 - 原翻译包作者：是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 此翻译包作者：肆鸠SiJiu49（**[点击前往作者bilibili主页](https://space.bilibili.com/443950222)**）
 - 使用须知如下：
@@ -48,11 +41,17 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 - **梗体中文-原版重置-测试版**
   - [没完成！！！链接有惊喜！**梗体中文-原版重置-测试版1.0**](https://www.bilibili.com/video/BV1GJ411x7h7/) New/新
+    
 
 ### 手动下载
 
+#### 正式发布版本
 1. 在本项目首页找到"Releases"点击并进入.（**[可以点击此处直接进入](https://github.com/Si-Jiu/SCPSL-ZH-MEMEIFIED/releases)**）
 2. 完成上一步骤后在标题为"梗体中文-原版重置-xxx"的下面点击"ZH-FLASH-MEMEIFIED_xxx"下载后缀为.zip的压缩包.
+
+#### 预览版本
+1. 在网页上方找到绿色按钮“Code”
+2. 点击”Download ZIP”
 
 ### 使用方法
 
@@ -68,34 +67,3 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 > [!CAUTION]\
 > **注意：本翻译包为完全独立的一个翻译包，不需要覆盖原版游戏的翻译包文件！**
-
-## 🔍 翻译包预览
-
-- 各类门禁显示
-
-![各类门禁显示](./PNG/Door.png)
-
-- ALPHA核弹关闭时
-
-![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png@1256w_708h_!web-article-pic.avif)
-
-- ALPHA核弹开启时
-
-![ALPHA核弹开启时](https://i0.hdslb.com/bfs/article/6b49c7463f861ebb4b3cbc1113b6104f545576624.png@1256w_708h_!web-article-pic.avif)
-
-- ALPHA核弹重启时
-
-![ALPHA核弹重启时](https://i0.hdslb.com/bfs/article/0b15141356ca4302a8b2896018c2d400545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 枪械配置工作站待机时
-
-![枪械配置工作站待机时](https://i0.hdslb.com/bfs/article/d577b81410e7111a3333d8a22988a49a545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 枪械配置工作站可用时
-
-![枪械配置工作站可用时](https://i0.hdslb.com/bfs/article/08cffa250728e0b4312529a9be0356d1545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 枪械配置工作站界面
-
-![枪械配置工作站界面](https://i0.hdslb.com/bfs/article/784fb2e9f890e18df9c0ed3e526b78c1545576624.png@1256w_708h_!web-article-pic.avif)
-> 只展示这么多,更详细的内容请前往游戏内体验.
