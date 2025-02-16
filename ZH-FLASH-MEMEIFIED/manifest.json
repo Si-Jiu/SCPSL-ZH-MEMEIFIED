@@ -1,8 +1,9 @@
 {
 	
-	"Name": "<color=#00D9FFFF><b>简体中文-原版重制<sub><size=120%>3.0.0-beta</size></sub></b></color>",
+	"Name": "<color=#00D9FFFF><b>梗体中文-原版重制<sub><size=120%>预览版</size></sub></b></color>",
 	"Authors": [
-		"bilibili@是闪闪闪闪闪"
+		"bilibili@是闪闪闪闪闪",
+		"bilibili@肆鸠SiJiu49"
 	],
 	"InterfaceLocales": [
 		"zh-CN",
