@@ -30,7 +30,7 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 ## 📅 日后与更新
 
-- ~本人应该在圣诞节放假期间施工,~也许暑假能搞定第一个版本，7月份如果看到我没更新那就是在打战地和rxsend
+- 本人应该在圣诞节放假期间施工,(划掉)也许25年暑假能搞定第一个版本，7月份如果看到我没更新那就是在打战地和rxsend
 - 有建议想法骚扰我[Bilibili私信](https://message.bilibili.com/#/whisper/unfollow/mid443950222)、在[QQ群](https://qm.qq.com/q/WidrCektW2)@肆鸠 或者在Github开Issues
 
 ## 📖 下载与使用方法
