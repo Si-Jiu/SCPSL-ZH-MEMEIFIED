@@ -1,5 +1,5 @@
 <color=#FF0000FF>SCP项目</color>
-<color=#0096FFFF>基金会势力</color>
+<color=#0096FFFF>鸡精会势力</color>
 <color=#008F1CFF>馄饨裂幵者</color>
 <color=#FFFF7CFF>哲学家</color>
 <color=#FF8E00FF>皇D</color>

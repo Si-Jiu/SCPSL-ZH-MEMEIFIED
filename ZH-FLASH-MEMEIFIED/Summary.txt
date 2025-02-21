@@ -1,11 +1,11 @@
 <b><color=#FFFFFFFF>本回合结束！</color></b>
 <color=#FF0000FF>『SCP获胜』</color>
-<color=#0096FFFF>『基金会获胜』</color>
+<color=#0096FFFF>『鸡精会获胜』</color>
 <color=#008F1CFF>『分裂者获胜』</color>
 <color=#FFFFFFFF>『陷入僵局』</color>
 <b><color=#FF0000FF>SCP</color>项目侵占了设施。应急响应方案已紧急启动。</b>
 <b>所有安全威胁都已被无效化，<color=#0096FFFF>SITE-02</color>又恢复了安全。</b>
-<b>基金会安保势力被彻底消灭。<color=#008F1CFF>馄饨裂幵者</color>们随时待命准备出动。</b>
+<b>鸡精会安保势力被彻底消灭。<color=#008F1CFF>馄饨裂幵者</color>们随时待命准备出动。</b>
 <b><color=#0096FFFF>SITE-02</color>基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。</b>
 <b>[summary_d_escaped] 名<color=#FF8E00FF>皇D</color>逃离设施</b>
 <b>[summary_s_escaped] 名<color=#FFFF7CFF>哲学家</color>逃离设施</b>

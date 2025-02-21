@@ -1,12 +1,12 @@
 <color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>1</color><color=#E60000FF>7</color><color=#FF0000FF>3</color>
 <color=#FF8000FF>皇D</color>
 <color=#FFFFFFFF>死人</color>
-<color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>1</color><color=#E60000FF>0</color><color=#FF0000FF>6</color>
-<color=#00D9FFFF>肘尾狐 收容专家</color>
+<color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>老</color><color=#E60000FF>毕</color><color=#FF0000FF>登</color>
+<color=#00D9FFFF>肘尾狐 白给专家</color>
 <color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>0</color><color=#E60000FF>4</color><color=#FF0000FF>9</color>
 <color=#FFFF7CFF>哲学家</color>
 <color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>0</color><color=#E60000FF>7</color><color=#FF0000FF>9</color>
-<color=#559101FF>馄饨裂幵者 征召兵</color>
+<color=#559101FF>馄饨裂幵者 黑奴</color>
 <color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>0</color><color=#E60000FF>9</color><color=#FF0000FF>6</color>
 <color=#660000FF>S</color><color=#820000FF>C</color><color=#940000FF>P</color><color=#A60000FF>-</color><color=#B80000FF>0</color><color=#C90000FF>4</color><color=#DB0000FF>9</color><color=#ED0000FF>-</color><color=#FF0000FF>2</color>
 <color=#0096FFFF>肘尾狐 中士</color>
@@ -17,8 +17,8 @@
 <color=#660000FF>S</color><color=#800000FF>C</color><color=#990000FF>P</color><color=#B30000FF>-</color><color=#CC0000FF>9</color><color=#E60000FF>3</color><color=#FF0000FF>9</color>
 <color=#00000000>-</color>
 <color=#008F1CFF>馄饨裂幵者 AK哥</color>
-<color=#006826FF>馄饨裂幵者 掠夺者</color>
-<color=#0D7D35FF>馄饨裂幵者 压制者</color>
+<color=#006826FF>馄饨裂幵者 左轮哥</color>
+<color=#0D7D35FF>馄饨裂幵者 机枪哥</color>
 <color=#00FFFFFF>我去这框帅吧</color>
 <color=#3D3D3DFF>导演模式</color>
 <color=#660000FF>S</color><color=#780000FF>C</color><color=#8C0000FF>P</color><color=#A60000FF>-</color><color=#BA0000FF>3</color><color=#D10000FF>1</color><color=#E80000FF>1</color><color=#FF0000FF>4</color>

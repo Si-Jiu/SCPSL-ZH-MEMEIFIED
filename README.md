@@ -20,6 +20,7 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 - 原项目[链接](https://github.com/ShanFlash/SCP-SL_zh_Flash)
 - 原翻译包作者：是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 此翻译包作者：肆鸠SiJiu49（**[点击前往作者bilibili主页](https://space.bilibili.com/443950222)**）
+- 翻译包名字灵感来源：[Minecraft 梗体中文](https://meme.teahouse.team/)
 - 使用须知如下：
   - 原翻译包是基于游戏《SCP Secret Laboratory》的官方简体中文翻译包(zh_Hans)进行修改的,其主要内容为重新排版与字体美化.
   - 本翻译包基于是闪闪闪闪闪的简体中文-原版重置,将文本添加了互联网以及SL圈中的梗.
@@ -41,15 +42,16 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 - **梗体中文-原版重置-测试版**
   - [没完成！！！链接有惊喜！**梗体中文-原版重置-测试版1.0**](https://www.bilibili.com/video/BV1GJ411x7h7/) New/新
-    
 
 ### 手动下载
 
 #### 正式发布版本
+
 1. 在本项目首页找到"Releases"点击并进入.（**[可以点击此处直接进入](https://github.com/Si-Jiu/SCPSL-ZH-MEMEIFIED/releases)**）
 2. 完成上一步骤后在标题为"梗体中文-原版重置-xxx"的下面点击"ZH-FLASH-MEMEIFIED_xxx"下载后缀为.zip的压缩包.
 
 #### 预览版本
+
 1. 在网页上方找到绿色按钮“Code”
 2. 点击”Download ZIP”
 
