@@ -1,0 +1,59 @@
+0~<color=#BBADE6FF><b>〔 清洁工钥匙卡 〕</b></color>
+1~<color=#FFFF7CFF><b>〔 科学家钥匙卡 〕</b></color>
+2~<color=#EFC01AFF><b>〔 研究主管钥匙卡 〕</b></color>
+3~<color=#008080FF><b>〔 区域总监钥匙卡 〕</b></color>
+4~<color=#5B6370FF><b>〔 设施警卫钥匙卡 〕</b></color>
+5~<color=#70C3FFFF><b>〔 MTF列兵钥匙卡 〕</b></color>
+6~<color=#BF8C86FF><b>〔 收容工程师钥匙卡 〕</b></color>
+7~<color=#0096FFFF><b>〔 MTF特工钥匙卡 〕</b></color>
+8~<color=#003DCAFF><b>〔 MTF指挥官钥匙卡 〕</b></color>
+9~<color=#BE0042FF><b>〔 设施总监钥匙卡 〕</b></color>
+10~<color=#008C1AFF><b>〔 混沌分裂者破解装置 〕</b></color>
+11~<color=#FFFFFFFF><b>〔 O5级别钥匙卡 〕</b></color> 
+12~<color=#A6D897FF><b>〔 对讲机 〕</b></color>~<mark color=#A6D89766><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>设备｜远程通讯</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#A6D897FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>允许持有的玩家进行远程通讯</b></color><size=30%>\n</size><size=30%>\n</size><color=#A6D897FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+13~<color=#FFFF7CFF><b>〔 COM-15 手枪 〕</b></color>
+14~<color=#D83B2BFF><b>〔 急救包 〕</b></color>~<mark color=#D83B2B66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜医疗用品</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>治疗你的伤势并清除流血与烧伤状态</b></color><size=30%>\n</size><size=30%>\n</size><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+15~<color=#FFFF7CFF><b>〔 手电筒 〕</b></color>~<mark color=#FFFF7C66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>工具｜光源照明</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#FFFF7CFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>使你能够在黑暗区域中看清东西</b></color><size=30%>\n</size><size=30%>\n</size><color=#FFFF7CFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+16~<color=#003DCAFF><b> <color=#003DCAFF>〔 M</color><color=#005CDDFF>i</color><color=#007DF2FF>c</color><color=#0096FFFF>r</color><color=#199FFFFF>o</color> <color=#30A8FFFF>-</color> <color=#49B3FFFF>H.</color><color=#66BFFFFF>I.</color><color=#70C3FFFF>D. 〕</color></size></b></color>~<mark color=#003DCA66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>武器｜实验性能量武器</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#003DCAFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>便携式高压电浆喷射器</b></color><size=30%>\n</size><size=30%>\n</size><color=#003DCAFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+17~<color=#BF0F09FF><b>〔 SCP-500 〕</b></color>~<mark color=#BF0F0966><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜医疗用品</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>治疗你的伤势并清除大部分状态</b></color><size=30%>\n</size><size=30%>\n</size><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+18~<color=#BF0F09FF><b>〔 SCP-207 〕</b></color>~<mark color=#BF0F0966><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜运动提升</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>提升行动能力的同时损坏你的身体</b></color><size=30%>\n</size><size=30%>\n</size><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+19~<color=#006826FF><b>〔 12号口径霰弹 〕</b></color>
+20~<color=#0096FFFF><b>〔 MTF-E11-SR 步枪 〕</b></color>
+21~<color=#70C3FFFF><b>〔 Crossvec 冲锋枪 〕</b></color>
+22~<color=#0096FFFF><b>〔 5.56×45毫米子弹 〕</b></color>
+23~<color=#5B6370FF><b>〔 FSP-9 冲锋枪 〕</b></color>
+24~<color=#0D7D35FF><b>〔 Logicer 轻机枪 〕</b></color>
+25~<color=#0096FFFF><b>〔 高爆手雷 〕</b></color>~<mark color=#0096FF66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>投掷物｜范围爆炸</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#0096FFFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>投掷后对敌人产生范围伤害</b></color><size=30%>\n</size><size=30%>\n</size><color=#0096FFFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+26~<color=#5B6370FF><b>〔 闪光弹 〕</b></color>~<mark color=#5B637066><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>投掷物｜范围致盲</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#5B6370FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>致盲你的敌人</b></color><size=30%>\n</size><size=30%>\n</size><color=#5B6370FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+27~<color=#006826FF><b>〔 .44马格南子弹 〕</b></color>
+28~<color=#008F1CFF><b>〔 7.62×39毫米子弹 〕</b></color>
+29~<color=#70C3FFFF><b>〔 9×19毫米子弹 〕</b></color>
+30~<color=#70C3FFFF><b>〔 COM-18 手枪 〕</b></color>
+31~<color=#BF0F09FF><b>〔 SCP-018 〕</b></color>~<mark color=#BF0F0966><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>投掷物｜范围破坏</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>具有极大势能的弹力球</b></color><size=30%>\n</size><size=30%>\n</size><color=#BF0F09FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+32~<color=#BFA24DFF><b>〔 SCP-268 〕</b></color>~<mark color=#BFA24D66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>佩戴物｜短效隐身</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BFA24DFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>戴上后短时间内“消失”</b></color><size=30%>\n</size><size=30%>\n</size><color=#BFA24DFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+33~<color=#D83B2BFF><b>〔 肾上腺素 〕</b></color>~<mark color=#D83B2B66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜医疗用品</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>暂时恢复体力并提升伤害抗性</b></color><size=30%>\n</size><size=30%>\n</size><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+34~<color=#D83B2BFF><b>〔 止痛药</b> 〕</color>~<mark color=#D83B2B66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜医疗用品</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>缓慢恢复你的生命值</b></color><size=30%>\n</size><size=30%>\n</size><color=#D83B2BFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+35~<color=#5B6370FF><b>〔 硬币 〕</b></color>~<mark color=#5B637066><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>杂项类｜货币</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#5B6370FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>你不确定为什么你会带着这个东西</b></color><size=30%>\n</size><size=30%>\n</size><color=#5B6370FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+36~<color=#5B6370FF><b>〔 轻型护甲 〕</b></color>
+37~<color=#0096FFFF><b>〔 战术护甲 〕</b></color>
+38~<color=#008F1CFF><b>〔 重装护甲 〕</b></color>
+39~<color=#006826FF><b>〔 .44 左轮手枪 〕</b></color>
+40~<color=#008F1CFF><b>〔 AK 突击步枪 〕</b></color>
+41~<color=#006826FF><b>〔 霰弹枪 〕</b></color>
+42~<color=#8D20D0FF><b>〔 糖果袋 〕</b></color>~<size=90%>一个装着以下糖果的袋子：</size>
+43~<color=#13BF5BFF><b>〔 SCP-2176 〕</b></color>~<mark color=#13BF5B66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>投掷物｜环境影响</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#13BF5BFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>破碎后将影响房间的灯光与门禁</b></color><size=30%>\n</size><size=30%>\n</size><color=#13BF5BFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+44~<color=#BF8156FF><b>〔 SCP-244-A 〕</b></color>~<mark color=#BF815666><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>放置物｜环境影响</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BF8156FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>放置后会产生一大团冷凝水蒸汽</b></color><size=30%>\n</size><size=30%>\n</size><color=#BF8156FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+45~<color=#7C9DBEFF><b>〔 SCP-244-B 〕</b></color>~<mark color=#7C9DBE66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>放置物｜环境影响</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#7C9DBEFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>放置后会产生一大团冷凝水蒸汽</b></color><size=30%>\n</size><size=30%>\n</size><color=#7C9DBEFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+46~<color=#64A642FF><b>〔 SCP-1853 〕</b></color>~<mark color=#64A64266><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜操作提升</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#64A642FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>生命遭受威胁时让你变得更加敏捷</b><size=30%>\n</size><size=30%>\n</size><color=#64A642FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+47~<color=#003DCAFF><b>〔 3-X 分子裂解者 〕</b></color>　　
+48~<color=#0096FFFF><b>〔 COM-45 手枪 〕</b></color>
+49~<color=#9A7C5CFF><b>〔 SCP-1576 〕</b></color>~<mark color=#9A7C5C66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>工具｜跨维通讯</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#9A7C5CFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>使用后可与观察者进行短暂交流</b></color></b></color><size=30%>\n</size><size=30%>\n</size><color=#9A7C5CFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+50~<color=#003DCAFF><b>〔 囚鸟 〕</b></color>~<mark color=#003DCA66><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>武器｜电击型近战武器</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#003DCAFF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>使用蓄能攻击时可使目标致盲</b></color><size=30%>\n</size><size=30%>\n</size><color=#003DCAFF>▣━━━━━━━▣━━━━━━━▣</color></size>
+51~<color=#BF69A2FF><b>〔 SCP-207? 〕</b></color>~<mark color=#BF69A266><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>消耗品｜医疗物品？</color><color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#BF69A2FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>恢复生命值的同时降低你的行动能力</b></color><size=30%>\n</size><size=30%>\n</size><color=#BF69A2FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+52~<color=#003DCAFF><b>〔 FR-MG-0 轻机枪 〕</b></color>
+53~<color=#008F1CFF><b>〔 A7 步枪 〕</b></color>
+54~<color=#C0A886FF><b>〔 手提灯 〕</b></color>~<mark color=#C0A88666><b><color=#FFFFFF00>【</color><color=#FFFFFFFF>工具｜光源照明<color=#FFFFFF00>】</color></b></mark><size=35%>\n</size><size=35%>\n</size><size=90%><color=#C0A886FF>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><color=#D3B2FFFF><b>一个刻有"Daniel"名字的煤油手提灯</b></color><size=30%>\n</size><size=30%>\n</size><color=#C0A886FF>▣━━━━━━━▣━━━━━━━▣</color></size>
+55~<color=#FFFFFFFF><b>〔 雪球 〕</b></color>~雪球？雪球！
+56~<color=#FFFFFFFF><b>〔 煤块 〕</b></color>
+57~<color=#FFFFFFFF><b>〔 煤块 ? 〕</b></color>
+58~<color=#FFFFFFFF><b>〔 磁带播放器 ? 〕</b></color>~里面装有一份没有标签的磁带。求求不要播放它。求求你了。
