@@ -1,6 +1,0 @@
-<color=red>拒绝访问</color>
-<size=110%><color=#F5650AFF><b>⚠️ 达到上限 ⚠️</b></color></size>\n达到可持有的 <color=#0096FFFF><b>[type]</b> 弹药</color> 上限(<color=#FFFF00FF> 最多 <b>[max_type_count]</b> 发</color> )
-<size=110%><color=#CC0000FF><b>🚫 无法拾取 🚫</b></color></size>\n<b>已经</b> 达到可持有的 <color=#0096FFFF><b>[type]</b> 弹药</color> 上限(<color=#FFFF00FF> 共 <b>[max_type_count]</b> 发</color> )
-<size=110%><color=#F5650AFF><b>⚠️ 达到上限 ⚠️</b></color></size>\n你最多可持有 <color=#FFFF00FF><b>[max_type_count]</b> 件该物品</color> ( <color=#0096FFFF><b>[type]</b></color> )
-<size=110%><color=#CC0000FF><b>🚫 无法拾取 🚫</b></color></size>\n<b>已达到</b> <color=#0096FFFF><b>[type]</b></color> 的可持有上限 ( <color=#FFFF00FF>最多 <b>[max_type_count]</b> 个</color> )
-<size=110%><color=#CC0000FF><b>🚫 背包已满 🚫</b></color></size>\n你最多可持有 <color=#FFFF00FF><b>[max_item_count]</b> 件</color> 该物品

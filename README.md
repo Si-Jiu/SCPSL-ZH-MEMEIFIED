@@ -1,4 +1,4 @@
-# 还在施工
+# 等待施工
 
 <p align=center>
 
@@ -30,41 +30,4 @@ _✨ SCP : SL 自定义翻译包 —— 梗体中文 • 原版重置 ✨_
 
 ## 📅 日后与更新
 
-- ~~本人应该在圣诞节放假期间施工~~也许25年暑假能搞定第一个版本，7月份如果看到我没更新那就是在打战地和rxsend
-- 有建议想法骚扰我[Bilibili私信](https://message.bilibili.com/#/whisper/unfollow/mid443950222)、在[QQ群](https://qm.qq.com/q/WidrCektW2)@肆鸠 或者在Github开Issues
-
-## 📖 下载与使用方法
-
-### 自动下载
->
-> **单击需要的版本下载即可（带有**`New/新`**的为最新版）**
-
-- **梗体中文-原版重置-测试版**
-  - [没完成！！！链接有惊喜！**梗体中文-原版重置-测试版1.0**](https://www.bilibili.com/video/BV1GJ411x7h7/) New/新
-
->>>>>>>
-### 手动下载
-
-#### 正式发布版本
-
-1. 在本项目首页找到"Releases"点击并进入.（**[可以点击此处直接进入](https://github.com/Si-Jiu/SCPSL-ZH-MEMEIFIED/releases)**）
-2. 完成上一步骤后在标题为"梗体中文-原版重置-xxx"的下面点击"ZH-FLASH-MEMEIFIED_xxx"下载后缀为.zip的压缩包.
-
-#### 预览版本
-
-1. 在网页上方找到绿色按钮“Code”
-2. 点击”Download ZIP”
-
-### 使用方法
-
-- 文字教程(顺序从上至下)
-  1. 首先你应该先学会[解压文件](https://www.bilibili.com/video/BV1xZ4y1v7pU).
-  2. 推荐的解压软件有 [Bandizip](https://www.bandisoft.com/bandizip/) 和 [7-Zip](https://7-zip.org/).
-  3. 解压密码与文件具体名称在配套的`README.txt`文件中有详细说明.
-  4. 打开你的Steam,在你的库中选中SCP秘密实验室,点击屏幕最右侧的齿轮图标，选择“管理” -> “浏览本地文件”，进入游戏根目录.
-  5. 解压所有压缩包后将名为"zh_Flash-MEMEIFIED_xxx"的整个文件夹拖拽至游戏根目录中的"Translations"文件夹内.
-  6. 验证是否正确安装的方法为进入翻译包内部查看里面的文件,如果里面有一大堆后缀为.txt文件就是正确的.
-  7. 最后启动游戏,在语言选项找到刚才安装的翻译包应用并重启游戏即可.
-
-> [!CAUTION]
-> **注意：本翻译包为完全独立的一个翻译包，不需要覆盖原版游戏的翻译包文件！**
+- 等待是闪闪闪闪大佬更新，更新完后会开始施工.
